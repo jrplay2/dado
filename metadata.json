@@ -1,0 +1,5 @@
+{
+  "name": "D10 - Dado 3D Online",
+  "description": "Uma aplicação web para rolar um dado de 10 lados (D10). Apresenta uma interface bonita e uma animação 3D do dado a cada rolagem. Construído com React, TypeScript e Tailwind CSS.",
+  "requestFramePermissions": []
+}
